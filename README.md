@@ -4,7 +4,7 @@
 # API Spring Boot Java
 
 ## Descrição
-Este é um projeto de API desenvolvido em Spring Boot, utilizando Java. A API foi construída para fornecer funcionalidades específicas, como (insira aqui a descrição das principais funcionalidades da API).
+Este é um projeto de API desenvolvido em Spring Boot, utilizando Java. A API foi construída para fornecer funcionalidades específicas porem ainda se encontra em ambiente de adaptações
 
 ## Pré-requisitos
 - JDK 17
@@ -14,7 +14,7 @@ Este é um projeto de API desenvolvido em Spring Boot, utilizando Java. A API fo
 ## Instalação e execução
 1. Clone o repositório para o seu ambiente local:
    ```
-   git clone https://github.com/seu-usuario/api-spring-boot-java.git
+   git clone [https://github.com/seu-usuario/api-spring-boot-java.git](https://github.com/Larissa-Rahal/trabalho_individual.git)
    ```
 2. Navegue até o diretório do projeto:
    ```
