@@ -38,9 +38,4 @@ Contribuições são bem-vindas! Se você encontrou algum problema ou deseja adi
 ## Autores
 - Larissa Rahal Coelho
 
-## Licença
-Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
-
----
-
 Sinta-se à vontade para ajustar este README de acordo com as especificidades do seu projeto.
