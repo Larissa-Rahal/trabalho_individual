@@ -14,7 +14,7 @@ Este é um projeto de API desenvolvido em Spring Boot, utilizando Java. A API fo
 ## Instalação e execução
 1. Clone o repositório para o seu ambiente local:
    ```
-   git clone [https://github.com/seu-usuario/api-spring-boot-java.git](https://github.com/Larissa-Rahal/trabalho_individual.git)
+   git clone [https://github.com/Larissa-Rahal/trabalho_individual.git]
    ```
 2. Navegue até o diretório do projeto:
    ```
