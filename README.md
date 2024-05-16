@@ -1,5 +1,3 @@
-# trabalho_individual
- Trabalho de API 
  
 # API Spring Boot Java
 
@@ -10,6 +8,7 @@ Este é um projeto de API desenvolvido em Spring Boot, utilizando Java. A API fo
 - JDK 17
 - Maven (para compilar e executar o projeto)
 - IDE de sua preferência (recomendado: IntelliJ IDEA, Eclipse)
+- Criação de um banco de dados chamado restaurante
 
 ## Instalação e execução
 1. Clone o repositório para o seu ambiente local:
